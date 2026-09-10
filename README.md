@@ -355,7 +355,7 @@ New experiments, prototypes, and AI side-projects land here regularly — from M
 
 </div>
 
-> 🐍 This snake eats your contribution graph — but it needs a one-time GitHub Actions setup in your profile repo to generate it (it's self-hosted from your own repo, not a third-party server, so it's fully reliable once set up). I've put the workflow file in a separate file below so I'm not editing anything else here — just add it to `.github/navaneethdevadiga/snake.yml` in your profile repo and it'll regenerate automatically on a schedule.
+> 🐍 This snake eats your contribution graph — but it needs a one-time GitHub Actions setup in your profile repo to generate it (it's self-hosted from your own repo, not a third-party server, so it's fully reliable once set up). I've put the workflow file in a separate file below so I'm not editing anything else here — just add it to `snake.yml` in your profile repo and it'll regenerate automatically on a schedule.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
